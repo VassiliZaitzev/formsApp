@@ -28,13 +28,13 @@ class BlocCounterScreen extends StatelessWidget {
           ),
           const SizedBox(height: 15,),
           FloatingActionButton(
-            heroTag: "1",
+            heroTag: "2",
             child: const Text("+2"),
             onPressed: (){}
           ),
           const SizedBox(height: 15,),
           FloatingActionButton(
-            heroTag: "1",
+            heroTag: "3",
             child: const Text("+1"),
             onPressed: (){}
           )
