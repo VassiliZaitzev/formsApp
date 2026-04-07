@@ -43,7 +43,7 @@ class CustomTextFormField extends StatelessWidget {
         //prefixIcon: Icon(Icons.person),
         suffixIcon: Icon(Icons.person),
         errorText: errorMessage,
-        //errorBorder: border.copyWith(borderSide: BorderSide(color: Colors.red.shade800))
+        errorBorder: border.copyWith(borderSide: BorderSide(color: Colors.red.shade800))
         
       ),
     );
